@@ -55,5 +55,5 @@ Take it, fork it, swap the scenario. If you are adapting it for a real assessmen
 
 ## Author
 
-Willie Wanke Jr. (Bill)
+Willie Wanke Jr. 
 Cybersecurity, Ontario, Canada
